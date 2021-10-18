@@ -1,0 +1,365 @@
+{
+    "cars_cateloug": [
+        {
+            "car_name": "Volkswagen Taigun",
+            "price": "₹ 10.49 Lakh onwards",
+            "rating": "4.0",
+            "images": [
+                "https://imgd.aeplcdn.com/664x374/n/cw/ec/45057/taigun-exterior-right-front-three-quarter-2.jpeg?q=85",
+                "https://cdn.shopify.com/s/files/1/0309/8440/5051/products/D16_1_de1d31f1-225a-42e7-9665-81444cf58181_1024x1024@2x.jpg?v=1582849868",
+                "https://cdn.shopify.com/s/files/1/0309/8440/5051/products/D17_1_5825fc51-4f95-4dde-a1c2-93a06fbf3811_1024x1024@2x.jpg?v=1582863038",
+                "https://cdn.shopify.com/s/files/1/0309/8440/5051/products/134-4_ef82b098-ab56-4244-96b4-3867bde58de6_1024x1024@2x.jpg?v=1617140539",
+                "https://cdn.shopify.com/s/files/1/0309/8440/5051/products/D136-1_2146613f-f438-4279-970b-fcc2a1996afb_1024x1024@2x.jpg?v=1617140539"
+            ],
+            "summary": [
+                {
+                    "heading": "Variants",
+                    "text": "The Volkswagen Taigun SUV is available in five variants across two body lines (Dynamic Line and Performance Line) that include Comfortline, Highline, Topline, GT, and GT Plus."
+                },
+                {
+                    "heading": "Market introduction",
+                    "text": "The new Volkswagen Taigun was launched in India on 23 September, 2021."
+                },
+                {
+                    "heading": "Engine and specification",
+                    "text": "The Volkswagen Taigun is offered with a 1.0-litre, three-cylinder, TSI petrol engine and a 1.5-litre, four-cylinder, TSI petrol engine. The latter is capable of producing 148bhp and 250Nm of torque while the former is tuned to produce 115bhp and 175Nm of torque. A six-speed manual unit is standard, while a six-speed torque-converter automatic unit and a seven-speed DSG unit are available as options."
+                },
+                {
+                    "heading": "Exterior design",
+                    "text": "On the outside, the Volkswagen Taigun features a two-slat grille with chrome inserts, LED headlamps with integrated DRLs, fog lights, a chrome insert for the front and rear bumpers, brushed aluminium faux skid plates, 17-inch dual-tone alloy wheels, roof rails, LED tail lights, an integrated spoiler with a high-mounted stop lamp, and a shark-fin antenna."
+                },
+                {
+                    "heading": "Seating capacity",
+                    "text": "The Volkswagen Polo has a seating capacity of five occupants."
+                }
+            ],
+            "specification": [
+                {
+                    "heading": "Price",
+                    "text": "₹ 10.49 Lakh onwards" 
+                },
+                {
+                    "heading": "Mileage",
+                    "text": "16.44 to 18.47 kmpl"
+                },
+                {
+                    "heading": "Engine",
+                    "text": "999 to 1498 cc"
+                },
+                {
+                    "heading": "Transmission",
+                    "text": "Manual, Automatic"
+                },
+                {
+                    "heading": "FuelType",
+                    "text": "Petrol"
+                },
+                {
+                    "heading": "Seating Capacity",
+                    "text": "5 Seater"
+                }
+            ]
+        },
+        {
+            "car_name": "Volkswagen Polo",
+            "price": "₹ 6.31 Lakh",
+            "rating": "4.2",
+            "images": [
+                "https://imgd.aeplcdn.com/664x374/n/cw/ec/29628/polo-exterior-right-front-three-quarter-2.jpeg?q=85",
+                "https://imgd.aeplcdn.com/664x374/n/cw/ec/29628/polo-exterior-left-front-three-quarter-7.jpeg?q=85",
+                "https://imgd.aeplcdn.com/664x374/n/cw/ec/29628/polo-exterior-right-side-view-2.jpeg?q=85",
+                "https://imgd.aeplcdn.com/664x374/n/cw/ec/29628/polo-exterior-left-rear-three-quarter-2.jpeg?q=85",
+                "https://imgd.aeplcdn.com/664x374/n/cw/ec/29628/polo-exterior-rear-view-2.jpeg?q=85"
+            ],
+            "summary": [
+                {
+                    "heading": "Variants",
+                    "text": "The Volkswagen Polo is available in four variants including Trendline, Comfortline, Highline Plus, and GT."
+                },
+                {
+                    "heading": "Market introduction",
+                    "text": "The updated Volkswagen Polo was launched in India on 5 March, 2020."
+                },
+                {
+                    "heading": "Engine and specification",
+                    "text": "The Volkswagen Polo is powered by a 1.0-litre, three-cylinder, TSI petrol engine that produces 109bhp and 175Nm of torque. Also on offer is a 1.0-litre, three-cylinder, MPI petrol motor that produces 75bhp and 95Nm of torque. A six-speed manual unit is standard while a six-speed torque converter automatic unit is available as an option."
+                },
+                {
+                    "heading": "Exterior design",
+                    "text": "On the outside, the Volkswagen Polo gets a revised front bumper, the GT grille, new alloy wheels, halogen headlamps, LED tail lights, new alloy wheels, an integrated spoiler, and a reworked rear bumper."
+                },
+                {
+                    "heading": "Seating capacity",
+                    "text": "The Volkswagen Polo has a seating capacity of five occupants."
+                }
+            ],
+            "specification": [
+                {
+                    "heading": "Price",
+                    "text": "₹ 6.31 Lakh onwards" 
+                },
+                {
+                    "heading": "Mileage",
+                    "text": "16.47 to 17.99 kmpl"
+                },
+                {
+                    "heading": "Engine",
+                    "text": "999 cc"
+                },
+                {
+                    "heading": "Transmission",
+                    "text": "Manual, Automatic"
+                },
+                {
+                    "heading": "FuelType",
+                    "text": "Petrol"
+                },
+                {
+                    "heading": "Seating Capacity",
+                    "text": "5 Seater"
+                }
+            ]
+        },
+        {
+            "car_name": "Skoda Kushaq",
+            "price": "₹ 10.50 Lakh",
+            "rating": "4.0",
+            "images": [
+                "https://imgd.aeplcdn.com/664x374/n/cw/ec/44549/kushaq-exterior-right-front-three-quarter-52.jpeg?q=85",
+                "https://imgd.aeplcdn.com/664x374/n/cw/ec/44549/kushaq-exterior-right-front-three-quarter-53.jpeg?q=85",
+                "https://imgd.aeplcdn.com/664x374/n/cw/ec/44549/kushaq-exterior-left-front-three-quarter-5.jpeg?q=85",
+                "https://imgd.aeplcdn.com/664x374/n/cw/ec/44549/kushaq-exterior-rear-view-2.jpeg?q=85",
+                "https://imgd.aeplcdn.com/664x374/n/cw/ec/44549/kushaq-exterior-front-view.jpeg?q=85"
+            ],
+            "summary": [
+                {
+                    "heading": "Variants",
+                    "text": "Skoda Auto India has launched the Kushaq mid-size SUV in the country. The model is based on the MQB-A0-IN platform that will also underpin the upcoming Volkswagen Taigun."
+                },
+                {
+                    "heading": "Market introduction",
+                    "text": "The 2021 Skoda Kushaq is available in five colours that include Tornado Red, Honey Orange, Candy White, Carbon Steel, and Reflex Silver. Customers can choose from two engine options across three variants including Active, Ambition, and Style."
+                },
+                {
+                    "heading": "Engine and specification",
+                    "text": "Powertrain options on the new Skoda Kushaq will include a 1.0-litre, three-cylinder TSI petrol engine producing 113bhp and 178Nm of torque, as well as a 1.5-litre, four-cylinder, TSI petrol engine producing 148bhp and 250Nm of torque. A six-speed manual unit is standard while the 1.0-litre and 1.5-litre versions get a six-speed automatic unit and a seven-speed DSG automatic unit as an option, respectively."
+                },
+                {
+                    "heading": "Exterior design",
+                    "text": "Exterior highlights of the Skoda Kushaq include the signature butterfly grille with black vertical slats and chrome surround, LED headlamps with integrated L-shaped LED DRLs, fog lights, silver skid plates and roof rails, 17-inch alloy wheels, LED tail lights, shark-fin antenna, rear washer and wiper, as well as an integrated spoiler."
+                },
+                {
+                    "heading": "Seating capacity",
+                    "text": "The Volkswagen Taigun has a seating capacity of five occupants."
+                }
+            ],
+            "specification": [
+                {
+                    "heading": "Price",
+                    "text": "₹ 10.50 Lakh onwards" 
+                },
+                {
+                    "heading": "Mileage",
+                    "text": "15.78 to 17.88 kmpl"
+                },
+                {
+                    "heading": "Engine",
+                    "text": "999 to 1498 cc"
+                },
+                {
+                    "heading": "Transmission",
+                    "text": "Manual, Automatic"
+                },
+                {
+                    "heading": "FuelType",
+                    "text": "Petrol"
+                },
+                {
+                    "heading": "Seating Capacity",
+                    "text": "5 Seater"
+                }
+            ]
+        },
+        {
+            "car_name": "Volkswagen Virtus",
+            "price": "₹ 9.00 - 12.00 Lakh",
+            "rating": "4.5",
+            "images": [
+                "https://imgd.aeplcdn.com/664x374/n/cw/ec/101055/exterior-left-front-three-quarter.jpeg?isig=0&q=85",
+                "https://imgd.aeplcdn.com/664x374/n/cw/ec/47562/skoda-rapid-tsi-right-front-three-quarter0.jpeg?q=85",
+                "https://imgd.aeplcdn.com/664x374/n/cw/ec/47562/rapid-tsi-exterior-right-front-three-quarter-52.jpeg?q=85",
+                "https://imgd.aeplcdn.com/664x374/n/cw/ec/47562/rapid-tsi-exterior-left-front-three-quarter.jpeg?q=85",
+                "https://imgd.aeplcdn.com/664x374/n/cw/ec/47562/rapid-tsi-exterior-left-rear-three-quarter.jpeg?q=85"
+            ],
+            "summary": [
+                {
+                    "heading": "Variants",
+                    "text": "The Volkswagen Virtus SUV is available in five variants across two body lines (Dynamic Line and Performance Line) that include Comfortline, Highline, Topline, GT, and GT Plus."
+                },
+                {
+                    "heading": "Market introduction",
+                    "text": "The new Volkswagen Virtus was launched in India on 23 September, 2021."
+                },
+                {
+                    "heading": "Engine and specification",
+                    "text": "The Volkswagen Virtus is offered with a 1.0-litre, three-cylinder, TSI petrol engine and a 1.5-litre, four-cylinder, TSI petrol engine. The latter is capable of producing 148bhp and 250Nm of torque while the former is tuned to produce 115bhp and 175Nm of torque. A six-speed manual unit is standard, while a six-speed torque-converter automatic unit and a seven-speed DSG unit are available as options."
+                },
+                {
+                    "heading": "Exterior design",
+                    "text": "On the outside, the Volkswagen Virtus features a two-slat grille with chrome inserts, LED headlamps with integrated DRLs, fog lights, a chrome insert for the front and rear bumpers, brushed aluminium faux skid plates, 17-inch dual-tone alloy wheels, roof rails, LED tail lights, an integrated spoiler with a high-mounted stop lamp, and a shark-fin antenna."
+                },
+                {
+                    "heading": "Seating capacity",
+                    "text": "The Volkswagen Virtus has a seating capacity of five occupants."
+                }
+            ],
+            "specification": [
+                {
+                    "heading": "Price",
+                    "text": "₹ 9.00 - 12.00 Lakh" 
+                },
+                {
+                    "heading": "Mileage",
+                    "text": "16.44 to 18.47 kmpl"
+                },
+                {
+                    "heading": "Engine",
+                    "text": "1498 cc"
+                },
+                {
+                    "heading": "Transmission",
+                    "text": "Manual, Automatic"
+                },
+                {
+                    "heading": "FuelType",
+                    "text": "Petrol"
+                },
+                {
+                    "heading": "Seating Capacity",
+                    "text": "6 Seater"
+                }
+            ]
+        },
+        {
+            "car_name": "Skoda Rapid TSI Rider",
+            "price": "₹ 7.80 Lakh",
+            "rating": "4.1",
+            "images": [
+                "https://imgd.aeplcdn.com/664x374/n/cw/ec/47562/skoda-rapid-tsi-right-front-three-quarter0.jpeg?q=85",
+                "https://imgd.aeplcdn.com/1056x594/n/nk00dta_1488600.jpg?q=85&wm=1",
+                "https://imgd.aeplcdn.com/1056x594/n/cna0dta_1488601.jpg?q=85&wm=1",
+                "https://imgd.aeplcdn.com/1056x594/n/xsc0dta_1488603.jpg?q=85&wm=1",
+                "https://imgd.aeplcdn.com/1056x594/n/yxe0dta_1488605.jpg?q=85&wm=1"
+            ],
+            "summary": [
+                {
+                    "heading": "Variants",
+                    "text": "The Skoda Rapid TSI Rider SUV is available in five variants across two body lines (Dynamic Line and Performance Line) that include Comfortline, Highline, Topline, GT, and GT Plus."
+                },
+                {
+                    "heading": "Market introduction",
+                    "text": "The new Skoda Rapid TSI Rider was launched in India on 23 September, 2021."
+                },
+                {
+                    "heading": "Engine and specification",
+                    "text": "The Skoda Rapid TSI Rider is offered with a 1.0-litre, three-cylinder, TSI petrol engine and a 1.5-litre, four-cylinder, TSI petrol engine. The latter is capable of producing 148bhp and 250Nm of torque while the former is tuned to produce 115bhp and 175Nm of torque. A six-speed manual unit is standard, while a six-speed torque-converter automatic unit and a seven-speed DSG unit are available as options."
+                },
+                {
+                    "heading": "Exterior design",
+                    "text": "On the outside, the Skoda Rapid TSI Rider features a two-slat grille with chrome inserts, LED headlamps with integrated DRLs, fog lights, a chrome insert for the front and rear bumpers, brushed aluminium faux skid plates, 17-inch dual-tone alloy wheels, roof rails, LED tail lights, an integrated spoiler with a high-mounted stop lamp, and a shark-fin antenna."
+                },
+                {
+                    "heading": "Seating capacity",
+                    "text": "The Skoda Rapid TSI Rider has a seating capacity of five occupants."
+                }
+            ],
+            "specification": [
+                {
+                    "heading": "Price",
+                    "text": "₹ 7.80 Lakh onwards" 
+                },
+                {
+                    "heading": "Mileage",
+                    "text": "16.44 to 18.47 kmpl"
+                },
+                {
+                    "heading": "Engine",
+                    "text": "999 cc"
+                },
+                {
+                    "heading": "Transmission",
+                    "text": "Manual, Automatic"
+                },
+                {
+                    "heading": "FuelType",
+                    "text": "Petrol"
+                },
+                {
+                    "heading": "Seating Capacity",
+                    "text": "5 Seater"
+                }
+            ]
+        },
+        {
+            "car_name": "Mahindra XUV700",
+            "price": "₹ 12.49 Lakh",
+            "rating": "4.0",
+            "images": [
+                "https://imgd.aeplcdn.com/664x374/n/cw/ec/42355/xuv700-exterior-right-front-three-quarter.jpeg?isig=0&q=85",
+                "https://imgd.aeplcdn.com/664x374/n/cw/ec/42355/xuv700-exterior-right-front-three-quarter-2.jpeg?isig=0&q=85",
+                "https://imgd.aeplcdn.com/664x374/n/cw/ec/42355/xuv700-exterior-left-rear-three-quarter-2.jpeg?isig=0&q=85",
+                "https://imgd.aeplcdn.com/664x374/n/cw/ec/42355/xuv700-exterior-rear-view-2.jpeg?isig=0&q=85",
+                "https://imgd.aeplcdn.com/664x374/n/cw/ec/42355/xuv700-exterior-front-view-2.jpeg?isig=0&q=85"
+            ],
+            "summary": [
+                {
+                    "heading": "Variants",
+                    "text": "The Mahindra XUV700 SUV is available in five variants across two body lines (Dynamic Line and Performance Line) that include Comfortline, Highline, Topline, GT, and GT Plus."
+                },
+                {
+                    "heading": "Market introduction",
+                    "text": "The new Mahindra XUV700 was launched in India on 23 September, 2021."
+                },
+                {
+                    "heading": "Engine and specification",
+                    "text": "The Mahindra XUV700 is offered with a 1.0-litre, three-cylinder, TSI petrol engine and a 1.5-litre, four-cylinder, TSI petrol engine. The latter is capable of producing 148bhp and 250Nm of torque while the former is tuned to produce 115bhp and 175Nm of torque. A six-speed manual unit is standard, while a six-speed torque-converter automatic unit and a seven-speed DSG unit are available as options."
+                },
+                {
+                    "heading": "Exterior design",
+                    "text": "On the outside, the Mahindra XUV700 features a two-slat grille with chrome inserts, LED headlamps with integrated DRLs, fog lights, a chrome insert for the front and rear bumpers, brushed aluminium faux skid plates, 17-inch dual-tone alloy wheels, roof rails, LED tail lights, an integrated spoiler with a high-mounted stop lamp, and a shark-fin antenna."
+                },
+                {
+                    "heading": "Seating capacity",
+                    "text": "The Mahindra XUV700 has a seating capacity of five occupants."
+                }
+            ],
+            "specification": [
+                {
+                    "heading": "Price",
+                    "text": "₹ 12.49 Lakh onwards" 
+                },
+                {
+                    "heading": "Mileage",
+                    "text": "16.44 to 18.47 kmpl"
+                },
+                {
+                    "heading": "Engine",
+                    "text": "1498 cc"
+                },
+                {
+                    "heading": "Transmission",
+                    "text": "Manual, Automatic"
+                },
+                {
+                    "heading": "FuelType",
+                    "text": "Petrol"
+                },
+                {
+                    "heading": "Seating Capacity",
+                    "text": "7 Seater"
+                }
+            ]
+        }
+
+    ]
+}
